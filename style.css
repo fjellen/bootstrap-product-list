@@ -1,0 +1,11 @@
+.parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kort {
+    display: flex;
+    flex-direction: row;
+    margin-top: 2rem;
+}
