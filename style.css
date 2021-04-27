@@ -9,3 +9,7 @@
     flex-direction: row;
     margin-top: 2rem;
 }
+
+.card-img-top {
+    height: 26rem;
+}
